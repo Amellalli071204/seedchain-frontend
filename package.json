@@ -1,0 +1,29 @@
+{
+  "name": "seedchain-frontend",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000e\u0000e\u0000d\u0000c\u0000h\u0000a\u0000i\u0000n\u0000-\u0000f\u0000r\u0000o\u0000n\u0000t\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amellalli071204/seedchain-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amellalli071204/seedchain-frontend/issues"
+  },
+  "homepage": "https://github.com/Amellalli071204/seedchain-frontend#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.5",
+    "react-scripts": "^5.0.1"
+  }
+}
